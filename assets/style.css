@@ -9,7 +9,7 @@ footer {
     height: 120px;
     background-color: blue;
     color: white;
-    font-style: Lucida Console;
+    font-style: Lucida ;
 }
 
 h1,
@@ -28,13 +28,13 @@ img {
 ul {
     padding-left: 40px;
     font-size: 20px;
-    font-style: Lucida Console;
+    font-style: Lucida ;
 }
 
 p {
     text-align: center;
     font-size: 30px;
-    font-style: Lucida Console;
+    font-style: Lucida ;
   }
 
   .card {
